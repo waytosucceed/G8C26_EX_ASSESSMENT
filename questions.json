@@ -1,0 +1,342 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    {
+      "heading": "Assessment",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Find the smallest prime number greater than the LCM of 4, 6, and 8.",
+          "options": [
+            { "text": "23" },
+            { "text": "29" },
+            { "text": "17" },
+            { "text": "13" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "If x is the LCM of 12 and 18, and y is the GCF of 12 and 18, what is the value of (x – y)?",
+          "options": [
+            { "text": "6" },
+            { "text": "12" },
+            { "text": "27" },
+            { "text": "30" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 3,
+          "question": "A fraction is equivalent to 3/4 but has a denominator of 20. What is its numerator?",
+          "options": [
+            { "text": "12" },
+            { "text": "13" },
+            { "text": "15" },
+            { "text": "18" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Liam, Ethan, and Noah buy chocolates. Liam buys 3 times more than Ethan, and Noah buys 2 more than Ethan. Together, they have 27 chocolates. How many chocolates does Liam buy?",
+          "options": [
+            { "text": "10" },
+            { "text": "12" },
+            { "text": "14" },
+            { "text": "15" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 5,
+          "question": "A factory produces 250 units of a product daily. Due to an increase in demand, production has increased by 20%. However, 1/4 of the total units are found defective. How many good units are produced daily?",
+          "options": [
+            { "text": "220" },
+            { "text": "225" },
+            { "text": "250" },
+            { "text": "275" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "A rectangle’s length is 5 cm more than twice its width. If its perimeter is 52 cm, what is its width?",
+          "options": [
+            { "text": "7 cm" },
+            { "text": "8 cm" },
+            { "text": "9 cm" },
+            { "text": "10 cm" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "A car covers 60% of a journey in 1.5 hours at 40 km/h. What is the total time required for the entire journey at the same speed?",
+          "options": [
+            { "text": "2 hours" },
+            { "text": "2.5 hours" },
+            { "text": "3 hours" },
+            { "text": "3.5 hours" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "A number is such that the sum of the number and its square is 30 more than twice the number. Find the number.",
+          "options": [
+            { "text": "5" },
+            { "text": "6" },
+            { "text": "4" },
+            { "text": "3" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "The sum of two fractions is 17/12 and their ratio is 2:3. Find the smaller fraction.",
+          "options": [
+            { "image": "./assests/images/option/1.png" },
+            { "image": "./assests/images/option/2.png" },
+            { "image": "./assests/images/option/3.png" },
+            { "image": "./assests/images/option/4.png" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "The age ratio of the younger brother to the elder brother is 5:7, and GCF is 4. What is the sum of their age?",
+          "options": [
+            { "text": "40" },
+            { "text": "48" },
+            { "text": "39" },
+            { "text": "20" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "A factory produces two types of machine parts. Part X is manufactured every 5 minutes, and Part Y is manufactured every 9 minutes. If both machines start working together at 8:15 AM, at what earliest time will both machines produce a part simultaneously again?",
+          "options": [
+            { "text": "8:50 AM" },
+            { "text": "8:45 AM" },
+            { "text": "9:00 AM" },
+            { "text": "9:05 AM" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "A rectangular field has a length-to-breadth ratio of 5:3. If the perimeter of the field is 64 m, find its area.",
+          "options": [
+            { "text": "96 sq.m" },
+            { "text": "100 sq.m" },
+            { "text": "240 sq.m" },
+            { "text": "228 sq.m" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "A circle is perfectly inscribed inside a square, meaning the circle touches all four sides of the square. If the radius of the circle is 7 cm, find the area of the shaded region outside the circle but inside the square.<br><img width='30%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "42 sq.cm" },
+            { "text": "45 sq.cm" },
+            { "text": "60 sq.cm" },
+            { "text": "52 sq.cm" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "A bag contains 24 balls: some are red, some are blue, and some are green. The probability of picking a red ball is 1/3, and a blue ball is 1/4. How many green balls are there?",
+          "options": [
+            { "text": "6" },
+            { "text": "8" },
+            { "text": "10" },
+            { "text": "12" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "A number’s square is equal to half of its cube. Find the number.",
+          "options": [
+            { "text": "0" },
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "4" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "Emma has two jars. The second jar has twice the candies of the first. Her mother adds one-third of the candies originally in the first jar to the first jar and half of the candies originally in the second jar to the second jar. Now, the total number of candies in both jars is 78. Find the number of candies in the first jar initially.",
+          "options": [
+            { "text": "12" },
+            { "text": "15" },
+            { "text": "18" },
+            { "text": "24" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "The square root of a first number is 2 less than the second number. The product of the first number and its square root is 64, and the product of the first number and the second number is 96. Find the sum of the two numbers.",
+          "options": [
+            { "text": "14" },
+            { "text": "16" },
+            { "text": "22" },
+            { "text": "20" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "Noah plans to save money. His dad gives her $100 every 5 days. His mom gives her $100 every 10 days. On one special day, he receives money from both his dad and mom on the same day. On that day, he decides to spend 20% of his total money on food. How much money does he have left after buying food?",
+          "options": [
+            { "text": "$160" },
+            { "text": "$180" },
+            { "text": "$220" },
+            { "text": "$240" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 19,
+          "question": "A vendor bought a certain number of mangoes. He sold one-fourth of them in the morning. Later, he sold 50% of the remaining mangoes in the afternoon. If he was left with 90 mangoes at the end of the day, how many mangoes did he originally buy?",
+          "options": [
+            { "text": "160" },
+            { "text": "180" },
+            { "text": "200" },
+            { "text": "240" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 20,
+          "question": "Ethan and Noah are collecting stickers. The Least Common Multiple (LCM) of the total stickers they have is 60, and the Greatest Common Factor (GCF) is 5. The ratio of Ethan’s stickers to Noah’s stickers is 3:4. <br><br>How many stickers does Noah have?",
+          "options": [
+            { "text": "24" },
+            { "text": "20" },
+            { "text": "36" },
+            { "text": "42" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 21,
+          "question": "A triangle has sides 10 cm, 15 cm, and 20 cm. If each side is increased by 10%, what is the percentage increase in its perimeter?",
+          "options": [
+            { "text": "10%" },
+            { "text": "15%" },
+            { "text": "20%" },
+            { "text": "25%" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 22,
+          "question": "If the radius of a circle is increased by 25%, how much does the area increase?",
+          "options": [
+            { "text": "50%" },
+            { "text": "100%" },
+            { "text": "56%" },
+            { "text": "225%" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 23,
+          "question": "A hiker covers a certain distance in 6 hours. He travels two-thirds of this distance at 5 km/h and the remaining distance at 10 km/h. Find the total distance (D).",
+          "options": [
+            { "text": "24 km" },
+            { "text": "30 km" },
+            { "text": "36 km" },
+            { "text": "40 km" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "Emma drives her car to a restaurant, which is 88 meters away. The diameter of her car's wheel is 70 cm. After completing 10 full revolutions, the car stops. <br><br>What percentage of the total distance to the restaurant did Emma cover?",
+          "options": [
+            { "text": "20%" },
+            { "text": "25%" },
+            { "text": "30%" },
+            { "text": "35%" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 25,
+          "question": "Liam drives to his school at a speed of 40 km/h and arrives 10 minutes late. If he increases his speed by 25%, he reaches 10 minutes early. Find the distance between his home and the school.",
+          "options": [
+            { "text": "67 km" },
+            { "text": "70 km" },
+            { "text": "50 km" },
+            { "text": "55 km" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 26,
+          "question": "A teacher and her student’s ages are in the ratio of 6:2. After 12 years, the student’s age will be 50% of the teacher’s age.<br> What is the teacher’s present age?",
+          "options": [
+            { "text": "36 years" },
+            { "text": "35 years" },
+            { "text": "40 years" },
+            { "text": "45 years" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 27,
+          "question": "A coach selects 3 players from a team of 8 for a special training session. Among these selected players, one will be chosen as the team captain for the session. In how many ways can this selection and captain assignment be done?",
+          "options": [
+            { "text": "112" },
+            { "text": "168" },
+            { "text": "224" },
+            { "text": "336" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 28,
+          "question": "A committee of 2 members is to be chosen from a group of 5 mathematics teachers and 4 science teachers. What is the probability that the committee consists of 2 mathematics teachers?",
+          "options": [
+            { "image": "./assests/images/option/5.png" },
+            { "image": "./assests/images/option/6.png" },
+            { "image": "./assests/images/option/7.png" },
+            { "image": "./assests/images/option/8.png" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 29,
+          "question": "A wooden beam is cut into three pieces in the ratio of 3:5:6. The total length of the beam is 8.4 meters. <br>After cutting, the smallest piece is further divided into two equal parts. One of these smaller parts is used for a construction project, while the remaining part is attached to the longest piece. <br>What is the final length of the longest piece after this process?",
+          "options": [
+            { "text": "4.5 m" },
+            { "text": "5.1 m" },
+            { "text": "5.3 m" },
+            { "text": "5.5 m" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 30,
+          "question": "The ratio of students in the Physics department to the Biology department is 4:5. The ratio of students in the Biology department to the Chemistry department is 2:3. In a science fair: 50% of the students in the Physics department participate. 25% of the students in the Biology department participate.<br> If the total number of students in the Chemistry department is 270, find the total number of students who participated in the science fair.",
+          "options": [
+            { "text": "110" },
+            { "text": "115" },
+            { "text": "117" },
+            { "text": "120" }
+          ],
+          "answer": 2
+        }
+      ]
+      
+      
+    }
+  ]
+}
