@@ -193,7 +193,7 @@
         },
         {
           "questionNo": 18,
-          "question": "Noah plans to save money. His dad gives her $100 every 5 days. His mom gives her $100 every 10 days. On one special day, he receives money from both his dad and mom on the same day. On that day, he decides to spend 20% of his total money on food. How much money does he have left after buying food?",
+          "question": "Noah plans to save money. His dad gives her $100 every 5 days. His mom gives his $100 every 10 days. On one special day, he receives money from both his dad and mom on the same day. On that day, he decides to spend 20% of his total money on food. How much money does he have left after buying food?",
           "options": [
             { "text": "$160" },
             { "text": "$180" },
